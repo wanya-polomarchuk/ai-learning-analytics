@@ -35,14 +35,15 @@ export GEMINI_API_KEY="your_api_key"
 ## Run the project:
 
 ```bash
-python main.py
+python system.py
 ```
 ## Project Structure
 
-- `main.py` → main menu and application flow
+- `system.py` → main menu and application flow
 - `database.py` → database setup and data management
 - `analysis.py` → statistical learning analysis
 - `ai_analysis.py` → Gemini AI integration and intelligent insights
+- 
 
 ## Technologies
 
