@@ -43,7 +43,8 @@ python system.py
 - `database.py` → database setup and data management
 - `analysis.py` → statistical learning analysis
 - `ai_analysis.py` → Gemini AI integration and intelligent insights
-- 
+  
+After running the system.py file there will be created a file named lerntracker.db which is your database.
 
 ## Technologies
 
